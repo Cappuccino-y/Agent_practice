@@ -134,7 +134,7 @@ import re
 # 请根据您使用的服务，将这里替换成对应的凭证和地址
 API_KEY = "AIzaSyAe3uEwevsPVbCYqfl6FbqK_rgu-lAgJPg"  # 替换你的API密钥
 BASE_URL = "https://generativelanguage.googleapis.com/v1beta/openai/"  # 此处仅为示例，请以实际为准
-MODEL_ID = "gemini-2.5-pro"  # 模型名称也请以实际为准
+MODEL_ID = "gemini-2.5-flash"  # 模型名称也请以实际为准
 TAVILY_API_KEY = "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"
 os.environ['TAVILY_API_KEY'] = TAVILY_API_KEY
 
